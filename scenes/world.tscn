@@ -2,7 +2,7 @@
 
 [ext_resource type="PackedScene" uid="uid://0aoupmo7ao1v" path="res://scenes/player.tscn" id="1_nnsk1"]
 [ext_resource type="Script" uid="uid://prswsu6wfnlb" path="res://scripts/spawner/spawner.gd" id="2_4wyf3"]
-[ext_resource type="Texture2D" uid="uid://d3ejykyx6snex" path="res://scripts/tileset/tileset.png" id="2_rwgxs"]
+[ext_resource type="Texture2D" uid="uid://d3ejykyx6snex" path="res://tileset/tileset.png" id="2_rwgxs"]
 
 [sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_e5uuo"]
 normal = Vector2(-0.019227214, 0.99981517)
@@ -1151,8 +1151,5 @@ autostart = true
 
 [node name="player" parent="." unique_id=572969664 instance=ExtResource("1_nnsk1")]
 position = Vector2(62, 98)
-
-[node name="Camera2D" type="Camera2D" parent="player" unique_id=2129389861]
-zoom = Vector2(5, 5)
 
 [connection signal="timeout" from="spawner/Timer" to="spawner" method="_on_timer_timeout"]

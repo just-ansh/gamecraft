@@ -22,7 +22,6 @@ func process_input(event: InputEvent) -> State:
 	attack["attack_"+state_machine.dire].disabled=false
 	if !parent.animations.is_playing():
 		attack["attack_"+state_machine.dire].disabled=true
-
 		if Input.is_action_just_pressed('left') or Input.is_action_just_pressed('right') or Input.is_action_just_pressed('up'
 		) or Input.is_action_just_pressed('down'):
 			return move_state

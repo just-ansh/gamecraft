@@ -1,7 +1,4 @@
-res://scenes/enemy.tscn
-res://scenes/world.tscn
 res://scenes/player.tscn
+res://scenes/world.tscn
 res://scripts/player/attack.gd
-res://scripts/player/state_machine.gd
-res://scripts/enemy.gd
-res://scripts/spawner/spawner.gd
+res://scenes/enemy.tscn

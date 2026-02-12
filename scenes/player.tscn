@@ -762,7 +762,7 @@ script = ExtResource("1_dqkch")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=168854869]
 position = Vector2(-3, -7)
 sprite_frames = SubResource("SpriteFrames_y4r1p")
-animation = &"attack_down"
+animation = &"attack_up"
 autoplay = "idle_right"
 frame = 7
 frame_progress = 1.0
@@ -810,5 +810,8 @@ disabled = true
 scale = Vector2(1.0678008, 1)
 polygon = PackedVector2Array(-9, -21, -6, -15, 13, -10, -7, -9, -15, -5, -6, 2, 1, 4, 22, 4, 32, 1, 36, -3, 36, -9, 30, -16, 17, -20)
 disabled = true
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1273543809]
+zoom = Vector2(2, 2)
 
 [connection signal="body_entered" from="Area2D" to="state_machine/attack" method="_on_area_2d_body_entered"]
