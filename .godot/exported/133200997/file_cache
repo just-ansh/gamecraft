@@ -1,0 +1,12 @@
+res://addons/health_bar_2d/examples/bullet.tscn::d4a2ecaf859fbcbe53b0e5199a8be87f::1768633470::res://.godot/exported/133200997/export-1c57d6d5ac81d2bd690cc4f38f9149dc-bullet.scn
+res://addons/health_bar_2d/examples/example.tscn::948ea02173feaba7b76a510cbc2bd7f1::1768633470::res://.godot/exported/133200997/export-2f41c6e04ae229a9cf7fe9823acd1865-example.scn
+res://addons/health_bar_2d/examples/heal.tscn::c6b92f5e780e1e8bf025203be6572dcd::1768633470::res://.godot/exported/133200997/export-d4447023541dbabb6008e13e5f74383c-heal.scn
+res://addons/health_bar_2d/examples/player.tscn::56e5625291bc236daae02acdb3a7f72a::1768633470::res://.godot/exported/133200997/export-ea97c0b44649e3d79fa7aa42f0d1f13e-player.scn
+res://addons/health_bar_2d/examples/turrent.tscn::4f2025e3d5a374163db97be7e57d97ec::1768633470::res://.godot/exported/133200997/export-40db1c3832fae87f3498773565a815e5-turrent.scn
+res://addons/health_bar_2d/health_bar_2d.tscn::02fff3b719234c3f05dafda589b3fd58::1768633470::res://.godot/exported/133200997/export-a52e5dfbde4881c5d303735b90e18b09-health_bar_2d.scn
+res://scenes/enemy.tscn::f84833f5c801ba14c62374844c246b28::1769067354::res://.godot/exported/133200997/export-a930820ec0ab16db6719aff4daa500f9-enemy.scn
+res://scenes/menu.tscn::d6ea599c591d879e3f92e11369c0c278::1769573098::res://.godot/exported/133200997/export-1ce5c86e8ca186dcaaeaa8726f1268db-menu.scn
+res://scenes/player.tscn::84a4778811f3ca54ee02f1e2c2af7fe6::1769855283::res://.godot/exported/133200997/export-234fb6894ec6226e856ab7f825500d3d-player.scn
+res://scenes/start_menu.tscn::c2d57df1943dbea411d59df5836d9642::1769069113::res://.godot/exported/133200997/export-88ae8cfda7038364875182e7cee054dd-start_menu.scn
+res://scenes/state_machine.tscn::1ed8bbf60feecb94f3a64fd8e8c73129::1768664747::res://.godot/exported/133200997/export-9b866311b0747afdee526f5456bbb564-state_machine.scn
+res://scenes/world.tscn::4404b596c3ac0c56b795c9e3b6759e79::1769573171::res://.godot/exported/133200997/export-6b9c1b1fd6ae6f795188dfdc89e222b0-world.scn

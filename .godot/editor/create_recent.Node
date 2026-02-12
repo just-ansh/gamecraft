@@ -1,0 +1,14 @@
+CollisionShape2D
+Area2D
+CharacterBody2D
+AnimatedSprite2D
+VideoStreamPlayer
+AnimationPlayer
+Node2D
+Node
+Button
+Camera2D
+Label
+CollisionPolygon2D
+TileMapLayer
+Sprite2D

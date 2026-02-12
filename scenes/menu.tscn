@@ -1,0 +1,29 @@
+[gd_scene format=3 uid="uid://cv1onjrr5ftus"]
+
+[node name="menu" type="Node2D" unique_id=1071020455]
+
+[node name="Button" type="Button" parent="." unique_id=1880962282]
+offset_left = 437.0
+offset_top = 198.0
+offset_right = 557.0
+offset_bottom = 229.0
+text = "go to start"
+
+[node name="Button2" type="Button" parent="." unique_id=506102082]
+offset_left = 451.0
+offset_top = 254.0
+offset_right = 532.0
+offset_bottom = 285.0
+text = "quit"
+
+[node name="Button3" type="Button" parent="." unique_id=39314615]
+offset_left = 459.0
+offset_top = 302.0
+offset_right = 527.0
+offset_bottom = 333.0
+text = "back
+"
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
+[connection signal="pressed" from="Button2" to="." method="_on_button_2_pressed"]
+[connection signal="pressed" from="Button3" to="." method="_on_button_3_pressed"]
