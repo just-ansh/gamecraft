@@ -9,3 +9,4 @@ func _on_timer_timeout() -> void:
 		var child= pre.instantiate()
 		child.position=pos
 		add_child(child)
+		timer.start(10)

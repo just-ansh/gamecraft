@@ -5,6 +5,7 @@ extends State
 @onready var attack_left: CollisionPolygon2D = $"../../Area2D/attack_left"
 @onready var attack_down: CollisionPolygon2D = $"../../Area2D/attack_down"
 @onready var attack_right: CollisionPolygon2D = $"../../Area2D/attack_right"
+@onready var score_label: Label = $"../../score_label"
 
 
 
@@ -18,7 +19,7 @@ func enter() -> void:
 	super()
 	parent.animations.play("attack_"+ state_machine.dire)
 
-func process_input(event: InputEvent) -> State:
+func process_physics(delta: float) -> State:
 	attack["attack_"+state_machine.dire].disabled=false
 	if !parent.animations.is_playing():
 		attack["attack_"+state_machine.dire].disabled=true
@@ -33,4 +34,5 @@ func process_input(event: InputEvent) -> State:
 func _on_area_2d_body_entered(body: Node2D) -> void:
 	if body.is_in_group("enemy"):
 		score+=10
+		score_label.text="Score:"+str(score)
 		body.queue_free() # Replace with function body.

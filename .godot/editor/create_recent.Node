@@ -1,6 +1,7 @@
-Camera2D
+Label
 CollisionShape2D
 Area2D
+Camera2D
 CharacterBody2D
 AnimatedSprite2D
 VideoStreamPlayer
@@ -8,7 +9,6 @@ AnimationPlayer
 Node2D
 Node
 Button
-Label
 CollisionPolygon2D
 TileMapLayer
 Sprite2D

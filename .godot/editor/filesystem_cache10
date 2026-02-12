@@ -1,5 +1,5 @@
 72322a848ab928aa5c89f0cb78209805
-::res://::1770898706
+::res://::1770910412
 141512-777708212 Medium.ogv::VideoStreamTheora::2665267747856422063::1770871640::0::1::::<><><>0<>0<><>::
 export_presets.cfg::TextFile::-1::1770871640::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::1203002051389342282::1770871640::1770871640::1::::<><><>0<>0<>72b521c485bae703a404898cadf61f73<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
@@ -48,23 +48,23 @@ run_down.png::CompressedTexture2D::4532845023079807748::1770871641::1770871641::
 run_left.png::CompressedTexture2D::538752127255580508::1770871641::1770871641::1::::<><><>0<>0<>c508b4a4ac06bf1b42d5e18b2a43287d<>res://.godot/imported/run_left.png-97fec26581cbae6f27652fafc60729ef.ctex::
 run_right.png::CompressedTexture2D::1286544773253653991::1770871641::1770871641::1::::<><><>0<>0<>0ff784fc5b58a545a4f72fc8204fb01c<>res://.godot/imported/run_right.png-0e9d272f5e0d9f61d89c05d3150b5c73.ctex::
 run_up.png::CompressedTexture2D::93773660560067431::1770871641::1770871641::1::::<><><>0<>0<>628a3770fef6b54a7c50a9754b118ab5<>res://.godot/imported/run_up.png-854a1ee8993ba105518137ca2e2eaa59.ctex::
-::res://scenes/::1770884916
-enemy.tscn::PackedScene::7917936346441658355::1770873023::0::1::::<><><>0<>0<><>::uid://cw2jlk122p4cs::::res://slime_green.png<>uid://coyuw4t4lirp::::res://scripts/enemy.gd
+::res://scenes/::1770910784
+enemy.tscn::PackedScene::7917936346441658355::1770899016::0::1::::<><><>0<>0<><>::uid://cw2jlk122p4cs::::res://slime_green.png<>uid://coyuw4t4lirp::::res://scripts/enemy.gd
 menu.tscn::PackedScene::6301354658394468334::1770871641::0::1::::<><><>0<>0<><>::
-player.tscn::PackedScene::1755607651794418945::1770884916::0::1::::<><><>0<>0<><>::uid://pb72nqjy6jp::::res://scripts/player/player.gd<>uid://dv0w6qf1ag0fu::::res://FREE_Adventurer 2D Pixel Art/Sprites/ATTACK 1/attack1_right.png<>uid://dr8wvoosmvn32::::res://FREE_Adventurer 2D Pixel Art/Sprites/ATTACK 1/attack1_down.png<>uid://b032dg8hestd4::::res://FREE_Adventurer 2D Pixel Art/Sprites/IDLE/idle_down.png<>uid://jb0f8awr4pa::::res://FREE_Adventurer 2D Pixel Art/Sprites/ATTACK 1/attack1_left.png<>uid://crrij5fjwrnfw::::res://FREE_Adventurer 2D Pixel Art/Sprites/IDLE/idle_right.png<>uid://c2225u62d4vam::::res://FREE_Adventurer 2D Pixel Art/Sprites/IDLE/idle_left.png<>uid://bwv8sr568x1jp::::res://FREE_Adventurer 2D Pixel Art/Sprites/ATTACK 1/attack1_up.png<>uid://ci8g2c012jtrf::::res://scenes/state_machine.tscn<>uid://cowkt60a8imk5::::res://FREE_Adventurer 2D Pixel Art/Sprites/IDLE/idle_up.png<>uid://c44qwaqnl5r4r::::res://scripts/player/idle.gd<>uid://b5t0kblogb66c::::res://FREE_Adventurer 2D Pixel Art/Sprites/RUN/run_down.png<>uid://brlg867v73pdt::::res://scripts/player/move.gd<>uid://hw8f0fos77q3::::res://FREE_Adventurer 2D Pixel Art/Sprites/RUN/run_left.png<>uid://uxvco6bgwynx::::res://scripts/player/attack.gd<>uid://slhg7lwqpnnb::::res://FREE_Adventurer 2D Pixel Art/Sprites/RUN/run_right.png<>uid://bloo55msbudj::::res://FREE_Adventurer 2D Pixel Art/Sprites/RUN/run_up.png
+player.tscn::PackedScene::1755607651794418945::1770910783::0::1::::<><><>0<>0<><>::uid://pb72nqjy6jp::::res://scripts/player/player.gd<>uid://dv0w6qf1ag0fu::::res://FREE_Adventurer 2D Pixel Art/Sprites/ATTACK 1/attack1_right.png<>uid://dr8wvoosmvn32::::res://FREE_Adventurer 2D Pixel Art/Sprites/ATTACK 1/attack1_down.png<>uid://b032dg8hestd4::::res://FREE_Adventurer 2D Pixel Art/Sprites/IDLE/idle_down.png<>uid://jb0f8awr4pa::::res://FREE_Adventurer 2D Pixel Art/Sprites/ATTACK 1/attack1_left.png<>uid://crrij5fjwrnfw::::res://FREE_Adventurer 2D Pixel Art/Sprites/IDLE/idle_right.png<>uid://c2225u62d4vam::::res://FREE_Adventurer 2D Pixel Art/Sprites/IDLE/idle_left.png<>uid://bwv8sr568x1jp::::res://FREE_Adventurer 2D Pixel Art/Sprites/ATTACK 1/attack1_up.png<>uid://ci8g2c012jtrf::::res://scenes/state_machine.tscn<>uid://cowkt60a8imk5::::res://FREE_Adventurer 2D Pixel Art/Sprites/IDLE/idle_up.png<>uid://c44qwaqnl5r4r::::res://scripts/player/idle.gd<>uid://b5t0kblogb66c::::res://FREE_Adventurer 2D Pixel Art/Sprites/RUN/run_down.png<>uid://brlg867v73pdt::::res://scripts/player/move.gd<>uid://hw8f0fos77q3::::res://FREE_Adventurer 2D Pixel Art/Sprites/RUN/run_left.png<>uid://uxvco6bgwynx::::res://scripts/player/attack.gd<>uid://slhg7lwqpnnb::::res://FREE_Adventurer 2D Pixel Art/Sprites/RUN/run_right.png<>uid://bloo55msbudj::::res://FREE_Adventurer 2D Pixel Art/Sprites/RUN/run_up.png
 start_menu.tscn::PackedScene::6675081186269236781::1770871641::0::1::::<><><>0<>0<><>::uid://dvbqdk7tm0sbj::::res://scripts/start_menu.gd<>uid://bd8ctnnjapgux::::res://141512-777708212 Medium.ogv
 state_machine.tscn::PackedScene::5402889245651053835::1770871641::0::1::::<><><>0<>0<><>::uid://nmyptcsbm0qa::::res://scripts/player/state_machine.gd
-world.tscn::PackedScene::2084483265647651394::1770884566::0::1::::<><><>0<>0<><>::uid://0aoupmo7ao1v::::res://scenes/player.tscn<>uid://prswsu6wfnlb::::res://scripts/spawner/spawner.gd<>uid://d3ejykyx6snex::::res://tileset/tileset.png
+world.tscn::PackedScene::2084483265647651394::1770898826::0::1::::<><><>0<>0<><>::uid://0aoupmo7ao1v::::res://scenes/player.tscn<>uid://prswsu6wfnlb::::res://scripts/spawner/spawner.gd<>uid://d3ejykyx6snex::::res://tileset/tileset.png
 ::res://scripts/::1770884566
 enemy.gd::GDScript::170773100752894905::1770873004::0::1::::<>CharacterBody2D<><>0<>0<><>::
 menu.gd::GDScript::7442650841456042757::1770871641::0::1::::<>Node2D<><>0<>0<><>::
 start_menu.gd::GDScript::8636269550045576411::1770871641::0::1::::<>Node2D<><>0<>0<><>::
-state.gd::GDScript::6228099684947707319::1770871641::0::1::::State<>Node<><>0<>0<><>::
-::res://scripts/player/::1770884916
-attack.gd::GDScript::1452536972810113313::1770884916::0::1::::<>State<><>0<>0<><>::
+::res://scripts/player/::1770910978
+attack.gd::GDScript::1452536972810113313::1770910978::0::1::::<>State<><>0<>0<><>::
 idle.gd::GDScript::6869195572430476527::1770871641::0::1::::<>State<><>0<>0<><>::
 move.gd::GDScript::3602764092645389877::1770871641::0::1::::<>State<><>0<>0<><>::
 player.gd::GDScript::31084967661504333::1770871641::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
+state.gd::GDScript::6228099684947707319::1770871641::0::1::::State<>Node<><>0<>0<><>::
 state_machine.gd::GDScript::938712496931043508::1770872043::0::1::::<>Node<><>0<>0<><>::
 ::res://scripts/spawner/::1770873004
 spawner.gd::GDScript::1089060247479706387::1770873004::0::1::::<>Node2D<><>0<>0<><>::

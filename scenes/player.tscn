@@ -756,6 +756,9 @@ animations = [{
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_qfm1y"]
 size = Vector2(12, 24)
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_fulsm"]
+size = Vector2(19, 27)
+
 [node name="player" type="CharacterBody2D" unique_id=636600611 groups=["player"]]
 script = ExtResource("1_dqkch")
 
@@ -789,7 +792,14 @@ script = ExtResource("8_smehm")
 move_state = NodePath("../move")
 idle_state = NodePath("../idle")
 
+[node name="hp" type="Area2D" parent="." unique_id=1549899719]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="hp" unique_id=1801037496]
+position = Vector2(-5, -3)
+shape = SubResource("RectangleShape2D_fulsm")
+
 [node name="Area2D" type="Area2D" parent="." unique_id=1288225278]
+visible = false
 
 [node name="attack_up" type="CollisionPolygon2D" parent="Area2D" unique_id=549227356]
 scale = Vector2(1.0678008, 1)
@@ -814,4 +824,19 @@ disabled = true
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1273543809]
 zoom = Vector2(2, 2)
 
+[node name="health_label" type="Label" parent="." unique_id=897288211]
+offset_left = 204.0
+offset_top = -156.0
+offset_right = 244.0
+offset_bottom = -133.0
+text = "health:100"
+
+[node name="score_label" type="Label" parent="." unique_id=710382842]
+offset_left = 205.0
+offset_top = -129.0
+offset_right = 261.0
+offset_bottom = -105.0
+text = "score:0"
+
+[connection signal="body_entered" from="hp" to="." method="_on_hp_body_entered"]
 [connection signal="body_entered" from="Area2D" to="state_machine/attack" method="_on_area_2d_body_entered"]
