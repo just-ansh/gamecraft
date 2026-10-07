@@ -1,11 +1,11 @@
 9cad1ddce9e5a63143ba340c9520626b
-::res://::1791382683
+::res://::1791386513
 141512-777708212 Medium.ogv::VideoStreamTheora::2665267747856422063::1791382653::0::1::::<><><>0<>0<><>::
 export_presets.cfg::TextFile::-1::1791382653::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::1203002051389342282::1791382653::1791382684::1::::<><><>0<>0<>72b521c485bae703a404898cadf61f73<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 slime_green.png::CompressedTexture2D::6373300790112257490::1791382653::1791382684::1::::<><><>0<>0<>741760301f5b118bd2bcea4d7e3ab970<>res://.godot/imported/slime_green.png-b9c8831d71e9673dc8497f6ab73218b0.ctex::
 ::res://addons/::1791382653
-::res://addons/health_bar_2d/::1791382653
+::res://addons/health_bar_2d/::1791382684
 addon.gd::GDScript::2436653203376939456::1791382653::0::1::::<>EditorPlugin<><>0<>1<><>::
 health_bar_2d.gd::GDScript::3154570117360376950::1791382653::0::1::::<>TextureProgressBar<><>0<>0<><>::
 health_bar_2d.tscn::PackedScene::3477469099333491354::1791382653::0::1::::<><><>0<>0<><>::res://addons/health_bar_2d/health_bar_2d.gd<>uid://cnjw8wn77f05i::::res://addons/health_bar_2d/resources/health_bar_texture.png
@@ -23,27 +23,27 @@ player.gd::GDScript::869707557748262217::1791382653::0::1::::<>CharacterBody2D<>
 player.tscn::PackedScene::-1::1791382653::0::1::::<><><>0<>0<><>::res://addons/health_bar_2d/examples/player.gd
 turrent.gd::GDScript::4942860401222052798::1791382653::0::1::::<>Area2D<><>0<>0<><>::
 turrent.tscn::PackedScene::4679830886535347318::1791382653::0::1::::<><><>0<>0<><>::res://addons/health_bar_2d/examples/turrent.gd<>res://addons/health_bar_2d/examples/bullet.tscn
-::res://addons/health_bar_2d/resources/::1791382653
+::res://addons/health_bar_2d/resources/::1791382684
 health_bar_texture.png::CompressedTexture2D::5705271616599968208::1791382653::1791382684::1::::<><><>0<>0<>473a2c8a380484c9cde183f6402dba80<>res://.godot/imported/health_bar_texture.png-b2571afb0d9e83bce90afa57c997503e.ctex::
 ::res://FREE_Adventurer 2D Pixel Art/::1791382653
 License.txt::TextFile::-1::1791382653::0::1::::<><><>0<>0<><>::
 ::res://FREE_Adventurer 2D Pixel Art/Sprites/::1791382653
-::res://FREE_Adventurer 2D Pixel Art/Sprites/ATTACK 1/::1791382653
+::res://FREE_Adventurer 2D Pixel Art/Sprites/ATTACK 1/::1791382684
 attack1_down.png::CompressedTexture2D::8421970892111570223::1791382653::1791382684::1::::<><><>0<>0<>0cdc3f32dab39f205bbd744ea5725f3f<>res://.godot/imported/attack1_down.png-fe4e77316daf0592502dd1f3df602480.ctex::
 attack1_left.png::CompressedTexture2D::18685075252324890::1791382653::1791382684::1::::<><><>0<>0<>b3f4eb87925d84c5ce985de95aa9e3ca<>res://.godot/imported/attack1_left.png-4b0ce8558d6fe414f35a4c429db17780.ctex::
 attack1_right.png::CompressedTexture2D::8686229194060601938::1791382653::1791382684::1::::<><><>0<>0<>2277904d94cf538e47aa0d395e1194cc<>res://.godot/imported/attack1_right.png-13e25a4b9303647fb0c025c9b43bce74.ctex::
 attack1_up.png::CompressedTexture2D::3975963922311266769::1791382653::1791382684::1::::<><><>0<>0<>a8925ecc828a820806f166d6b3a2ecdb<>res://.godot/imported/attack1_up.png-119ca528c387b8b3871b486231d7540a.ctex::
-::res://FREE_Adventurer 2D Pixel Art/Sprites/ATTACK 2/::1791382653
+::res://FREE_Adventurer 2D Pixel Art/Sprites/ATTACK 2/::1791382684
 attack2_down.png::CompressedTexture2D::4293003570462145367::1791382653::1791382684::1::::<><><>0<>0<>55c04df08315059ed087b71bd1427cae<>res://.godot/imported/attack2_down.png-f595552ad39f66469f04e54212561c8c.ctex::
 attack2_left.png::CompressedTexture2D::4662604123474299393::1791382653::1791382684::1::::<><><>0<>0<>78dbf8114ed2c73d9dd0720ff43231a3<>res://.godot/imported/attack2_left.png-04fcfef9bafe5684e11f86ba96f0aaad.ctex::
 attack2_right.png::CompressedTexture2D::2955955505696827656::1791382653::1791382684::1::::<><><>0<>0<>6943c79133fcbd7b82dc0b42068793f8<>res://.godot/imported/attack2_right.png-b1f42d2f6c2147487e604d56fe488601.ctex::
 attack2_up.png::CompressedTexture2D::2043407897983258711::1791382653::1791382684::1::::<><><>0<>0<>887823383324daccf8f2ccf2c5952ac7<>res://.godot/imported/attack2_up.png-172b69c70f469fd70700ab73e7f3b93d.ctex::
-::res://FREE_Adventurer 2D Pixel Art/Sprites/IDLE/::1791382653
+::res://FREE_Adventurer 2D Pixel Art/Sprites/IDLE/::1791382684
 idle_down.png::CompressedTexture2D::4200589434386763071::1791382653::1791382684::1::::<><><>0<>0<>d9e4838f782471833d184307e9e56d2d<>res://.godot/imported/idle_down.png-44f2cf0e4faf60ddbc4042d7d0ffb523.ctex::
 idle_left.png::CompressedTexture2D::6725372377182401176::1791382653::1791382684::1::::<><><>0<>0<>aeda8880a6d074d29b30e98cd8acc6f5<>res://.godot/imported/idle_left.png-6146dae05020b689dec276c82aeb8120.ctex::
 idle_right.png::CompressedTexture2D::6001649523002572604::1791382653::1791382684::1::::<><><>0<>0<>8f5b65f94c5f2b5e2abf9efa73316831<>res://.godot/imported/idle_right.png-16db5869ed31056cdaa33a618f94592f.ctex::
 idle_up.png::CompressedTexture2D::5801544255808220850::1791382653::1791382684::1::::<><><>0<>0<>6eacd809803d9d984e7dba2217832711<>res://.godot/imported/idle_up.png-4bc90c4966d3282f9b5d0e98c8897798.ctex::
-::res://FREE_Adventurer 2D Pixel Art/Sprites/RUN/::1791382653
+::res://FREE_Adventurer 2D Pixel Art/Sprites/RUN/::1791382684
 run_down.png::CompressedTexture2D::4532845023079807748::1791382653::1791382684::1::::<><><>0<>0<>37cb4df808ebc772f526416e64a1ec96<>res://.godot/imported/run_down.png-2db73a0e7efef63d7e22e215036dd881.ctex::
 run_left.png::CompressedTexture2D::538752127255580508::1791382653::1791382684::1::::<><><>0<>0<>c508b4a4ac06bf1b42d5e18b2a43287d<>res://.godot/imported/run_left.png-97fec26581cbae6f27652fafc60729ef.ctex::
 run_right.png::CompressedTexture2D::1286544773253653991::1791382653::1791382684::1::::<><><>0<>0<>0ff784fc5b58a545a4f72fc8204fb01c<>res://.godot/imported/run_right.png-0e9d272f5e0d9f61d89c05d3150b5c73.ctex::
@@ -68,5 +68,5 @@ state.gd::GDScript::6228099684947707319::1791382653::0::1::::State<>Node<><>0<>0
 state_machine.gd::GDScript::938712496931043508::1791382653::0::1::::<>Node<><>0<>0<><>::
 ::res://scripts/spawner/::1791382653
 spawner.gd::GDScript::1089060247479706387::1791382653::0::1::::<>Node2D<><>0<>0<><>::
-::res://tileset/::1791382653
+::res://tileset/::1791382684
 tileset.png::CompressedTexture2D::9133397059345035955::1791382653::1791382684::1::::<><><>0<>0<>4b0c2a535abf45777e53586c12d78181<>res://.godot/imported/tileset.png-781317dbeac795ab5fa88723bddea64c.ctex::
